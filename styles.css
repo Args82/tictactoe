@@ -1,0 +1,53 @@
+
+body{
+	
+background-image: url(images/image3.jpg);
+background-position: center;
+
+
+	text-align: center;
+	background-color:;
+	color: white;
+
+	
+
+}
+
+#container {
+	width: 100%;
+  box-sizing: border-box;
+
+
+
+
+}
+#players{
+
+}
+
+figure{
+	margin-left: 35%;
+
+}
+#board{
+	width: 100%;
+	margin-left: 15%;
+
+}
+button{
+	border: 2px solid white;
+	
+
+
+}
+
+.td{
+
+
+	border:white solid 5px;
+	padding: 10px;
+	margin: 10px;border-radius: 30px;
+	text-align: center;
+	margin-top: -10px;
+
+}
